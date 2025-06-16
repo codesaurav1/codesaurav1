@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesaurav1&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaurav1&langs_count=8&layout=compact&hide=typescript&custom_title=Most%20Used%20Languages&theme=default&hide_border=false&bg_color=00000000" alt="Top Langs" />
 </p>
 
 <p>&nbsp;
