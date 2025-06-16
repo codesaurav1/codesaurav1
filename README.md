@@ -22,13 +22,13 @@
 
 ### 🛠️ Languages and Tools
 
-#### 💻 Languages  
+### 💻 Languages I Use Frequently
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
 
 #### 🌐 Frontend  
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaurav1&langs_count=8&layout=compact&hide=typescript&custom_title=Most%20Used%20Languages&theme=default&hide_border=false&bg_color=00000000" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesaurav1&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
 <p>&nbsp;
