@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurav+Kumar;A+passionate+Full+Stack+Developer+from+India" />
 </h1>
 
+
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5c1c6a35cb3ef0e9aff8bcd903d7687.gif">
